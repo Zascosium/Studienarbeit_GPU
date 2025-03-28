@@ -1,0 +1,6 @@
+absl-py==1.4.0
+pycocotools==2.0.6
+Pillow==11.1.0
+tensorflow==2.8.4
+tflite-model-maker==0.4.3
+tflite-runtime==2.5.0.post1

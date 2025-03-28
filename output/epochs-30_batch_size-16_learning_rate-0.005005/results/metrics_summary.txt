@@ -1,0 +1,45 @@
+Class: pedestrian (ID: 2)
+Confusion Matrix: TP=243, FP=21, TN=0, FN=203
+Precision: 0.9205, Recall: 0.5448, AUC: 0.5198
+
+Class: intersection-grant-sign (ID: 11)
+Confusion Matrix: TP=101, FP=10, TN=0, FN=159
+Precision: 0.9099, Recall: 0.3885, AUC: 0.3763
+
+Class: thirty-sign (ID: 6)
+Confusion Matrix: TP=138, FP=9, TN=0, FN=197
+Precision: 0.9388, Recall: 0.4119, AUC: 0.4000
+
+Class: crosswalk-sign (ID: 4)
+Confusion Matrix: TP=317, FP=21, TN=0, FN=266
+Precision: 0.9379, Recall: 0.5437, AUC: 0.5329
+
+Class: intersection-right-of-way-sign (ID: 10)
+Confusion Matrix: TP=69, FP=4, TN=0, FN=194
+Precision: 0.9452, Recall: 0.2624, AUC: 0.2498
+
+Class: car (ID: 1)
+Confusion Matrix: TP=392, FP=26, TN=0, FN=277
+Precision: 0.9378, Recall: 0.5859, AUC: 0.5685
+
+Class: no-thirty-sign (ID: 7)
+Confusion Matrix: TP=141, FP=10, TN=0, FN=112
+Precision: 0.9338, Recall: 0.5573, AUC: 0.5398
+
+Class: parking-sign (ID: 5)
+Confusion Matrix: TP=311, FP=20, TN=0, FN=252
+Precision: 0.9396, Recall: 0.5524, AUC: 0.5406
+
+Class: go-left-sign (ID: 8)
+Confusion Matrix: TP=30, FP=4, TN=0, FN=153
+Precision: 0.8824, Recall: 0.1639, AUC: 0.1504
+
+Class: go-right-sign (ID: 9)
+Confusion Matrix: TP=88, FP=8, TN=0, FN=283
+Precision: 0.9167, Recall: 0.2372, AUC: 0.2242
+
+Class: stop-sign (ID: 3)
+Confusion Matrix: TP=145, FP=6, TN=0, FN=139
+Precision: 0.9603, Recall: 0.5106, AUC: 0.5000
+
+mAP: 0.4184

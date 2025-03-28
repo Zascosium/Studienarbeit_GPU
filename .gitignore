@@ -3,3 +3,4 @@ training_data/
 split-dataset/
 dataset/
 logs/
+*.out
